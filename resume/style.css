@@ -1,0 +1,30 @@
+h1 {
+  font-size: 3em;
+  font-style: italic;
+  text-align: center;
+  border-bottom: 5px solid black;
+  color: #08085E;
+}
+
+#contact {
+  text-align: center;
+}
+
+span {
+  border-right: 2px solid black;
+  padding: 5px;
+}
+
+body {
+  padding-left: 10px;
+}
+
+h2 {
+  color: #08085E;
+  font-size: 30px;
+}
+
+h3 {
+  color: #08085E;
+  padding-left: 2em;
+}
