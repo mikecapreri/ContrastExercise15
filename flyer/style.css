@@ -1,0 +1,49 @@
+.column {
+  float: left;
+  width: 45%;
+  padding: 15px;
+}
+
+#columnwrapper {
+  margin: auto;
+  width: 1300px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 4em;
+  font-family: Montserrat;
+  color: #FFF200;
+  border: solid
+  color: white;
+}
+
+h2 {
+  text-align: center;
+  font-size: 2em;
+  font-style: italic;
+  font-family: Montserrat;
+  color: #FFF200;
+}
+
+hr {
+  border-width: 5px;
+  border-color: #A487BE;
+}
+
+h3 {
+  text-decoration: underline;
+  font-family: Inconsolata;
+  color: #FFF200;
+}
+
+h4 {
+  padding-left: 15px;
+  font-family: Inconsolata;
+  color: white;
+}
+
+body {
+  color: #A487BE;
+  background-color: #12120F;
+}
