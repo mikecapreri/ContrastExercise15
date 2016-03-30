@@ -16,6 +16,8 @@ h1 {
   color: #FFF200;
   border: solid
   color: white;
+  font-family: Sorts Mill Goudy;
+
 }
 
 h2 {
@@ -24,26 +26,25 @@ h2 {
   font-style: italic;
   font-family: Montserrat;
   color: #FFF200;
+  font-family: Sorts Mill Goudy;
 }
 
-hr {
-  border-width: 5px;
-  border-color: #A487BE;
-}
+
 
 h3 {
-  text-decoration: underline;
+  border-bottom: 2px dotted #FFF200;
   font-family: Inconsolata;
   color: #FFF200;
+  font-family: Sorts Mill Goudy;
 }
 
 h4 {
-  padding-left: 15px;
-  font-family: Inconsolata;
+  font-family: Sorts Mill Goudy;
   color: white;
 }
 
 body {
   color: #A487BE;
-  background-color: #12120F;
+  background-color: #5B6239;
+  font-family: Yanone Kaffeesatz;
 }
